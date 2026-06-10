@@ -1,4 +1,4 @@
-# Firefighter Robot 
+# Arduino Based Firefighting Robot 
 
 An Arduino-based firefighting robot that uses three flame sensors to detect the direction of a fire source. The robot automatically moves towards the flame and activates a water pump through a servo controlled mechanism to extinguish the fire.
 
