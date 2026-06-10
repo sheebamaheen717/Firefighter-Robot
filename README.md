@@ -81,6 +81,6 @@ The complete circuit diagram is available in:
 Sheeba Maheen
 https://www.linkedin.com/in/sheeba-maheen-954b2237b
 
-**Sheeba Maheen**
+
 
 B.Tech in Electronics and Computer Engineering
