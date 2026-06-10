@@ -8,7 +8,7 @@
 #define ir_F A1  
 #define ir_L A2  
 #define servo A4  
-#definepump A5  
+#define pump A5  
 int Speed = 160; // Write The Duty Cycle 0 to 255 Enable for Motor Speed 
 int s1, s2, s3;  
 void setup(){  
